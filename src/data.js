@@ -17,7 +17,7 @@ const data =
         favGiantRobot: 'Megazord'
     },
     {
-        id: 1,
+        id: 3,
         name: {
             first: 'Cole',
             last: 'Finlayson'
